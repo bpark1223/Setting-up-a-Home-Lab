@@ -28,8 +28,8 @@
 </p> I download an ISO image file for Kali Linux in order to create a Kali Linux VM </p>
 <img width="1277" alt="Screenshot 2024-07-06 at 3 22 33 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/8cb210db-d924-43fa-bdd0-2cc1234c1096">
 </p> I repeat the same steps I took to download the ubuntu server. Same configs
-<img width="796" alt="Screenshot 2024-07-06 at 3 30 02 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/f58128d0-2973-4f2a-9374-69d1467b400d">
-</p> Once, the installation is complete, I hit continue to reboot
+<img width="796" alt="Screenshot 2024-07-06 at 3 30 02 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/f58128d0-2973-4f2a-9374-69d1467b400d"> </p>
+</p> Once, the installation is complete, I hit continue to reboot </p>
 <img width="585" alt="Screenshot 2024-07-06 at 3 43 15 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/9e60040c-a1c3-49b5-ab58-cc9e2d9aaca8">
 </p> I clear the ISO image from the VM and run it
 <img width="1227" alt="Screenshot 2024-07-06 at 3 46 50 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/bb9682b3-d8b6-4ea2-a5ed-844c8e341222">
