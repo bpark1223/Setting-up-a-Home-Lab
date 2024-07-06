@@ -1,5 +1,5 @@
 </h> Setting up a Home Lab </h>
-<p>Setting up a home lab is a fundamental step in practicing and improving cybersecurity skills. In this project, I will create a virtual network with multiple machines.</p>
+<p>Setting up a home lab is a fundamental step in practicing and improving cybersecurity skills. In this project, I will create a virtual network with multiple machines which I will use to simulate and defend against attacks.</p>
 <h2>Utilities Used</h2>
 </p>- Ubuntu </p>
 </p>- Kali Linux </p>
