@@ -21,7 +21,7 @@
 <img width="874" alt="Screenshot 2024-07-06 at 3 02 51 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/999b5566-9040-4258-b819-f2784fab672c">
 </p> I will name the VM "Ubuntu 24.04 LTS" and click  "open VM settings" 
 </p> <img width="887" alt="Screenshot 2024-07-06 at 3 04 47 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/41cfbd76-7ad0-4613-bee1-294ed6b04568">
-</p> I run the server
+</p> I run the server </p>
 <img width="800" alt="Screenshot 2024-07-06 at 3 06 52 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/0190046d-66d6-4f65-998f-d5eb55f5766d">
 </p> I install Ubuntu </p> 
 <img width="1262" alt="Screenshot 2024-07-06 at 3 12 20 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/439090f5-ff41-4df6-bb5f-b8d2f90dbb6b">
