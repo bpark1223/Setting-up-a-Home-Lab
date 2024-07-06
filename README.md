@@ -36,7 +36,6 @@
 </p> I open the terminal and run the updates </p>
 <img width="823" alt="Screenshot 2024-07-06 at 3 48 43 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/a3543860-b3c0-4d35-baab-b919e186568f">
 </p> I open the terminal in ubuntu and run the updates / build essential tools
-<img width="823" alt="Screenshot 2024-07-06 at 3 48 43 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/96bc8a7d-77cb-44c4-bb42-2311a5002b28">
 <img width="743" alt="Screenshot 2024-07-06 at 4 37 06 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/c9528bd8-faa1-4a89-9c13-ade4d1b10141">
 
 
