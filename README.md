@@ -1,9 +1,10 @@
 </h> Setting up a Home Lab </h>
-<p>Setting up a home lab is a fundamental step in practicing and improving cybersecurity skills. In this project, I will create a virtual network with multiple machines which I will use to simulate and defend against attacks.</p>
+<p>Setting up a home lab is a fundamental step in practicing and improving cybersecurity skills. In this project, I will create a virtual network with multiple machines which I will use to run an nmap scan and analyze network traffic using Wireshark.</p>
 <h2>Utilities Used</h2>
 </p>- Ubuntu </p>
 </p>- Kali Linux </p>
 </p>- UTM VM setup </p>
+</p>- Wireshark </p>
 <h2>Step-by-Step Walkthrough</h2>
 </p> I use UTM to setup my virtual machine.</p>
 <img width="1420" alt="Screenshot 2024-07-06 at 2 51 29 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/2f3d0076-c0d7-42bf-b994-2d1fa2559c72">
@@ -37,7 +38,13 @@
 <img width="823" alt="Screenshot 2024-07-06 at 3 48 43 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/a3543860-b3c0-4d35-baab-b919e186568f">
 </p> I open the terminal in ubuntu and run the updates / build essential tools
 <img width="743" alt="Screenshot 2024-07-06 at 4 37 06 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/c9528bd8-faa1-4a89-9c13-ade4d1b10141">
-
+</p> Using Kali Linux, I perform a simple nmap scan against the Ubuntu VM: </p>
+<img width="641" alt="Screenshot 2024-07-06 at 5 09 10 PM" src="https://github.com/bpark1223/Simulate-Network-Attacks-and-Defenses/assets/77799235/f5f40bd6-b50c-450e-850d-17bc2b845f83">
+</p> On the Ubuntu VM, I install and configure an uncomplicated firewall (UFW) </p>
+<img width="802" alt="Screenshot 2024-07-06 at 5 34 40 PM" src="https://github.com/bpark1223/Simulate-Network-Attacks-and-Defenses/assets/77799235/b283a47f-2b46-42b8-9de2-73af497c781f">
+</p> On the Ubuntu VM, I install Wireshark and capture traffic </p>
+<img width="1440" alt="Screenshot 2024-07-06 at 5 36 40 PM" src="https://github.com/bpark1223/Simulate-Network-Attacks-and-Defenses/assets/77799235/677363f8-5b38-4166-a4b4-b952e614f0a0">
+<img width="1211" alt="Screenshot 2024-07-06 at 6 11 29 PM" src="https://github.com/bpark1223/Setting-up-Wireshark-on-Ubuntu/assets/77799235/b515cbd8-4437-4893-baf1-6476e3ea6236">
 
 
 
