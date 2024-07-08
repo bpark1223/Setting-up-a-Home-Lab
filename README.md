@@ -39,13 +39,15 @@
 </p> I open the terminal in ubuntu and run the updates / build essential tools
 <img width="743" alt="Screenshot 2024-07-06 at 4 37 06 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/c9528bd8-faa1-4a89-9c13-ade4d1b10141">
 </p> Using Kali Linux, I perform a simple nmap scan against the Ubuntu VM: </p>
-<img width="641" alt="Screenshot 2024-07-06 at 5 09 10 PM" src="https://github.com/bpark1223/Simulate-Network-Attacks-and-Defenses/assets/77799235/f5f40bd6-b50c-450e-850d-17bc2b845f83">
-</p> On the Ubuntu VM, I install and configure an uncomplicated firewall (UFW) </p>
-<img width="802" alt="Screenshot 2024-07-06 at 5 34 40 PM" src="https://github.com/bpark1223/Simulate-Network-Attacks-and-Defenses/assets/77799235/b283a47f-2b46-42b8-9de2-73af497c781f">
-</p> On the Ubuntu VM, I install Wireshark and capture traffic </p>
-<img width="1440" alt="Screenshot 2024-07-06 at 5 36 40 PM" src="https://github.com/bpark1223/Simulate-Network-Attacks-and-Defenses/assets/77799235/677363f8-5b38-4166-a4b4-b952e614f0a0">
-<img width="1211" alt="Screenshot 2024-07-06 at 6 11 29 PM" src="https://github.com/bpark1223/Setting-up-Wireshark-on-Ubuntu/assets/77799235/b515cbd8-4437-4893-baf1-6476e3ea6236">
+<img width="641" alt="Screenshot 2024-07-06 at 5 09 10 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/31c37fb9-c73e-4ca4-96de-61715fa333e7">
 
+</p> On the Ubuntu VM, I install and configure an uncomplicated firewall (UFW) </p>
+<img width="802" alt="Screenshot 2024-07-06 at 5 34 40 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/09454908-f18a-40b1-93b8-41c6989ec71c">
+
+</p> On the Ubuntu VM, I install Wireshark and capture traffic </p>
+<img width="1440" alt="Screenshot 2024-07-06 at 5 36 40 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/78c56d9a-5ef4-44da-9baf-086ca819fde3">
+
+<img width="1211" alt="Screenshot 2024-07-06 at 6 11 29 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/b8324ba0-66f8-4333-90cb-8bed3d548141">
 
 
 
