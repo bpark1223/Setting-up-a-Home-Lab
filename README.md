@@ -49,6 +49,9 @@
 
 <img width="1211" alt="Screenshot 2024-07-06 at 6 11 29 PM" src="https://github.com/bpark1223/Setting-up-a-Home-Lab/assets/77799235/b8324ba0-66f8-4333-90cb-8bed3d548141">
 
+</p> When analyzing a Wireshark packet capture, especially for network security and troubleshooting purposes, there are several key pieces of information to observe: </p>
+
+</p1> Source and Destination IP Addresses, Protocols Used, Port Numbers, Packet Flags, Timestamp Information, Timing between packets, Packet Size, TTL Values, TCP Sequence and Acknowledgment Numbers, and HTTP Request and Response Headers </p>
 
 
 
